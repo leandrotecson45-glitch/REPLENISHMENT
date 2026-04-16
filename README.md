@@ -175,7 +175,7 @@ async function update(){
         let data=await res.json();
 
         if(data.features){
-          let route=L.geoJSON(data,{style:{color:"blue",weight:5}});
+          let route=L.geoJSON(data,{style:{color:"white",weight:5}});
           route.addTo(map);
           routes.push(route);
 
