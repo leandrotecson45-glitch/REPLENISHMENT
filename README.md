@@ -15,7 +15,7 @@
   <script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
 
   <style>
-    body{font-family:Arial;background:#0f172a;color:Black;padding:10px;}
+    body{font-family:Arial;background:#0f172a;color:White;padding:10px;}
     header{text-align:center;background:linear-gradient(45deg,#22c55e,#0ea5e9);padding:10px;}
     input,select,button{padding:8px;margin:5px;border-radius:8px;border:none;}
     button{background:#22c55e;color:white;cursor:pointer;}
@@ -23,7 +23,7 @@
     table{width:95%;margin:10px auto;border-collapse:collapse;}
     th,td{border:1px solid #ccc;padding:6px;text-align:center;}
     img{width:60px;border-radius:6px;}
-    .day-row{background:#1e293b;font-weight:bold;}
+    .day-row{background:black;font-weight:bold;}
   </style>
 </head>
 <body>
